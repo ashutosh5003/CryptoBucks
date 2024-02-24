@@ -18,6 +18,5 @@ Overall, CryptoBucks serves as a centralized hub for cryptocurrency information,
 <<<<<<< HEAD
 
 =======
->>>>>>> b014d9ae1c7ca42ce4b1ee95f0214a8c1c2daf69
 # CryptoBucks
 
