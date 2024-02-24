@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Name: CryptoBucks
+Name: CryptoBucks (https://crypto-bucks.netlify.app/)
 
 Description: CryptoBucks is a web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) that provides users with access to cryptocurrency data and information. It utilizes the CoinGecko API to fetch real-time data on various cryptocurrencies, including prices, market capitalization, trading volume, and more.
 
