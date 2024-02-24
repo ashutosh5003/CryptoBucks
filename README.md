@@ -15,6 +15,9 @@ Additional Data: Potentially incorporates additional data sources or features to
 Purpose: CryptoBucks aims to provide cryptocurrency enthusiasts and investors with a convenient platform for accessing accurate and timely data, enabling them to make informed decisions in the volatile cryptocurrency market.
 
 Overall, CryptoBucks serves as a centralized hub for cryptocurrency information, leveraging the power of the MERN stack and the CoinGecko API to deliver a valuable resource to its users.
+<<<<<<< HEAD
 
+=======
+>>>>>>> b014d9ae1c7ca42ce4b1ee95f0214a8c1c2daf69
 # CryptoBucks
 
